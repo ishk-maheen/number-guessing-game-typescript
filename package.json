@@ -1,0 +1,21 @@
+{
+  "name": "ishk-maheen24-number-guessing-game",
+  "type": "module",
+  "version": "5.0.0",
+  "description": "A number guessing game with TypeScript, node.js and Inquirer",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maheen Sheikh",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
